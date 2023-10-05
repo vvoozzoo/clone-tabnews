@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Second Deploy! Realizando um novo commit, sem amend</h1>
+    return <h1>Deploy com Amend</h1>
 }
 
 export default Home;
