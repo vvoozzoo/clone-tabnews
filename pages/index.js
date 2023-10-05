@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Depois de toda a bagunça com git pull --no-rebase, bora fazer push -f.</h1>
+    return <h1>Second Deploy! Realizando um novo commit, sem amend</h1>
 }
 
 export default Home;
