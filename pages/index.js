@@ -1,5 +1,9 @@
 function Home() {
-  return <h1>Tatinha, te amo! Obrigado pelo apoio, 'bejameuslabios' 😍</h1>;
+  return (
+    <h1>
+      This is my personal website, with my resume and links to my projects
+    </h1>
+  );
 }
 
 export default Home;
